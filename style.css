@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.MainPageHeader {
+    height: 7 rem;
+    font-size: 5rem;
+
+    color: darkseagreen;
+    background-color: darkslategray;
+}
